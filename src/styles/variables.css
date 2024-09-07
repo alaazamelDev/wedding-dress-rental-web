@@ -1,0 +1,39 @@
+
+.dress-list__card {
+    width: 240pt;
+    border: 1px solid #6D7275;
+    border-radius: 1rem;
+}
+
+.dress-list__card-img {
+    object-fit: cover;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.dress-list__card-name {
+    margin: 1rem 1rem 0;
+    color: #286199;
+}
+
+.dress-list__card-price-container {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.dress-list__card-price-label {
+    margin-top: 0.75rem;
+    margin-left: 1rem;
+}
+
+.dress-list__card-price {
+    margin-top: 0.75rem;
+    margin-left: 0.25rem;
+    color: #EC4E20;
+}
+
+.dress-list__card-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
